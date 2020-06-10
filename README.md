@@ -12,3 +12,7 @@
 
 - 学习netty的使用
 - 熟悉内网穿透原理
+
+## 在Bash下输出彩色的文本
+
+[研究一下](http://utensil.github.io/tech/2007/09/10/colorful-bash.html)
