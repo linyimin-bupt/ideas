@@ -16,3 +16,5 @@
 ## 在Bash下输出彩色的文本
 
 [研究一下](http://utensil.github.io/tech/2007/09/10/colorful-bash.html)
+
+## API接口自动生成Swagger文档
